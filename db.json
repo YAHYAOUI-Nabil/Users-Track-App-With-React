@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nabil Yahyaoui",
+      "age": 29,
+      "job": "Aeronautical engineer",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "name": "Yassine Yahyaoui",
+      "age": 23,
+      "job": "Student",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "name": "Mohamed Anouer Yahyaoui",
+      "age": 22,
+      "job": "Student",
+      "reminder": false
+    }
+  ]
+}
