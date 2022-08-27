@@ -75,7 +75,7 @@ function App() {
   return (
     <Router>
       <div className="container">
-      <Header title='User Tracker' onShowForm={onShowForm} showAdd={showAddUser}/>
+      <Header title='Users Tracker' onShowForm={onShowForm} showAdd={showAddUser}/>
       <Routes>
         <Route path='/' element={
           <>
